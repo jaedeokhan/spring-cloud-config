@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 # 60 * 60 * 24 * 1000
-  secret: dev_my_secret_user_token
+  secret: dev_my_secret_user_token_#2
 
 gateway:
   ip: 192.168.0.2
